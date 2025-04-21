@@ -1,6 +1,6 @@
 import React from 'react'
 import { useRef } from 'react';
-import '../App.css';
+import '../styling/Registration.css';
 export default function Registration() {
     const nameRef = useRef();
   const emailRef = useRef();
